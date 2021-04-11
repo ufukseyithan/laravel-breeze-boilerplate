@@ -1,5 +1,5 @@
 # Laravel Breeze Boilerplate
-This is my boilerplate for Laravel Breeze. I am cloning this project whenever I start a new Laravel project. This might be too specific use for your case but I just wanted to share it anyway. This simply tries to find inelegant stuff in Breeze and fix them.
+This is my boilerplate for Laravel Breeze. I am cloning this project whenever I start a new Laravel project. This might be too specific use for your case but I just wanted to share it anyway. This simply tries to find inelegant stuff in Breeze and fix them and adds a few must-to-haves in any project.
 
 ## Installation
 Installation is quite easy, just follow these steps here: https://stackoverflow.com/a/39913449/9145193
